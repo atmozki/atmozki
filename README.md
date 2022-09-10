@@ -7,3 +7,8 @@
 <p align="center">
   <img alig src="https://profile-counter.glitch.me/atmozki/count.svg" />
 </p>
+
+## My Stats...
+
+| <a href="https://github.com/atmozki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Dennis's github stats" /></a> | <a href="https://github.com/atmozki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
