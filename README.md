@@ -23,12 +23,11 @@ Learning: Python / JavaScript
 
 ## My Stats...
 
-<p align='center'>
 <div>
   <img height="170" align="left" href="https://github.com/atmozki" src="https://github-readme-stats.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Dennis's Github Stats" />
   <img align="center" href="https://github.com/atmozki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=vue&hide_border=true" alt="Dennis's Most Used Languages" />
 </div>
-</p>
+
 <br>
 <br>
 <p align='center'>
