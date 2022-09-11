@@ -10,7 +10,5 @@
 
 ## My Stats...
 
-![alt](https://github-readme-stats.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=vue&hide_border=false) ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=vue&hide_border=true)
-
 | <a href="https://github.com/atmozki"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=vue&hide_border=false" alt="Dennis's Github Stats" /></a> | <a href="https://github.com/atmozki"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=vue&hide_border=true" alt="Dennis's Most Used Languages" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
