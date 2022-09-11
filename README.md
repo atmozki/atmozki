@@ -26,9 +26,12 @@ Learning: Python / JavaScript
 | <a href="https://github.com/atmozki"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Dennis's Github Stats" /></a> | <a href="https://github.com/atmozki"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=vue&hide_border=true" alt="Dennis's Most Used Languages" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<img alig src="https://github-profile-trophy.vercel.app/?username=atmozki&theme=gruvbox" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true" />
 
 ## Connect with me 📫
+
+<p align=center'>
+<a href="https://www.linkedin.com/in/dennis-george-2b1b1b1b1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="50" width="50" /></a>
 
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' href='https://github.com/atmozki'>
