@@ -70,7 +70,7 @@ Learning: Python / JavaScript
     <img href="https://github.com/atmozki" src="https://github-readme-streak-stats.herokuapp.com/?user=atmozki" alt="GitHub streak stats" />
     <br>
     <br>
-    <img href="https://github.com/atmozki" src="https://metrics.lecoq.io/atmozki" alt="GitHub   metrics" />
+    <img href="https://github.com/atmozki" src="https://metrics.lecoq.io/atmozki" alt="GitHub metrics" />
     <br>
     <br>
     <img href="https://github.com/atmozki" src="https://gpvc.arturio.dev/atmozki" alt="Gihub Profile View's" />
