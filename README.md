@@ -58,15 +58,19 @@ Learning: Python / JavaScript
 
 <details>
   <summary>😶‍🌫️</summary>
-<p align='center'>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atmozki)
 
-![GitHub metrics](https://metrics.lecoq.io/atmozki)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atmozki)
-
-![Profile views](https://gpvc.arturio.dev/atmozki)
-
+  <br>
+  <p align='center'>
+    <img href="https://github.com/atmozki" src="https://activity-graph.herokuapp.com/graph?username=atmozki" alt="GitHub Activity Graph" />
+    <br>
+    <br>
+    <img href="https://github.com/atmozki" src="https://github-readme-streak-stats.herokuapp.com/?user=atmozki" alt="GitHub streak stats" />
+    <br>
+    <br>
+    <img href="https://github.com/atmozki" src="https://metrics.lecoq.io/atmozki" alt="GitHub   metrics" />
+    <br>
+    <br>
+    <img href="https://github.com/atmozki" src="https://gpvc.arturio.dev/atmozki" alt="Gihub Profile View's" />
 </p>
 
 </details>
