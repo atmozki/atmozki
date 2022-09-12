@@ -46,8 +46,7 @@ Learning: Python / JavaScript
 <a href="https://github.com/atmozki"><img src="https://img.icons8.com/color-glass/72/github--v2.gif" height="50" width="50" alt="github" /></a>
 &ensp; <!-- Tab Space -->
 <a href="https://www.linkedin.com/in/dennisjk/"><img src="https://img.icons8.com/color/72/linkedin-2--v2.gif" height="50" width="50" alt="linkedin" /></a>
-&ensp; <!-- Tab Space -->
-<a href="https://www.instagram.com/____iamdj____/"><img src="https://img.icons8.com/color/72/instagram-new--v2.gif" height="50" width="50" alt="instagram" /></a>
+<a href="https://www.instagram.com/____iamdj____/"><img src="https://c.tenor.com/aZ3B0RkVwdsAAAAj/anashe.gif" height="70" width="70" alt="instagram" /></a>
 &ensp; <!-- Tab Space -->
 <a href="https://twitter.com/dennisjojok/"><img src="https://img.icons8.com/color/72/twitter--v2.gif" height="50" width="50" alt="twitter" /></a>
 &ensp; <!-- Tab Space -->
