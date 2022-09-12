@@ -58,7 +58,7 @@ Learning: Python / JavaScript
 
 <details>
   <summary>😶‍🌫️</summary>
-
+<p align='center'>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atmozki)
 
 ![GitHub metrics](https://metrics.lecoq.io/atmozki)
@@ -66,5 +66,7 @@ Learning: Python / JavaScript
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atmozki)
 
 ![Profile views](https://gpvc.arturio.dev/atmozki)
+
+</p>
 
 </details>
