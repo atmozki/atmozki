@@ -23,6 +23,14 @@ Learning: Python / JavaScript
 
 ## Technologies & Tools <img src='https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif' height='30'>
 
+[<img align="left" alt="cpp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px:" />][git]
+[<img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />][git]
+[<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:20px;" />][git]
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />][git]
+
+<br>
+<br>
+
 ## My Stats <img src='https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif' height='25'>
 
 <div>
@@ -77,3 +85,5 @@ Learning: Python / JavaScript
 </p>
 
 </details>
+
+[git]: https://www.github.com/atmozki
