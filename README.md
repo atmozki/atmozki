@@ -1,7 +1,9 @@
+[![MasterHead](.assets/greetings.gif)](git)
+
 <h1 align="center">Hi there </a><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="45" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=100&lines=Hi+There+%E2%9C%8C%EF%B8%8F;Welcome+to+My+Github+Page+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt='Running Text'/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+My+Github+Page+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt='Running Text'/>
 </p>
 
 ### Hola <img src='https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif' height='20'>, my name is Dennis
