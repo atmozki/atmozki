@@ -39,7 +39,8 @@ Learning: Python / JavaScript
 [<img align="left" alt="Windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:20px;" />][git]
 [<img align="left" alt="VIM" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:20px;" />][git]
 
-<br />
+<br/> 
+<br/>
 
 ## My Stats <img src='https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif' height='25'>
 
