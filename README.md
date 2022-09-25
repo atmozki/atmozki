@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+My+Github+Page+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt='Running Text'/>
 </p>
 
-### Hola <img src='https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif' height='20'>, my name is Dennis
+### Hola <img src='https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif' height='20'>, my name is Dennis,
 
 I am a Computer Science Student from India. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.<br>
 I am still learning and exploring new things. I am open to any suggestions and feedback.
