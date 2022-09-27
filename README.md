@@ -1,4 +1,4 @@
-[![MasterHead](.assets/greetings.gif)](git)
+[![MasterHead](assets/greetings.gif)](git)
 
 <h1 align="center">Hi there </a><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="45" /></h1>
 
@@ -38,6 +38,7 @@ Learning: Python / JavaScript
 [<img align="left" alt="Terminal" width="35px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" style="padding-right:20px;" />][git]
 [<img align="left" alt="Windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:20px;" />][git]
 [<img align="left" alt="VIM" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:20px;" />][git]
+[<img align="left" alt"Emacs" width="35px" src="assets/emacs.svg" style="padding-right:20px;" />][git]
 
 <br/> 
 <br/>
