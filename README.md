@@ -1,4 +1,4 @@
-[![MasterHead](assets/greetings.gif)](git)
+[![MasterHead](assets/greetings.gif)][git]
 
 <h1 align="center">Hi there </a><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="45" /></h1>
 
@@ -106,4 +106,4 @@ Learning: Python / JavaScript
 
 </details>
 
-[git]:https://www.github.com/atmozki
+[git]: https://www.github.com/atmozki
