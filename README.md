@@ -54,8 +54,8 @@ Learning: Python / JavaScript
 ## My Stats <img src='https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif' height='25'>
 
 <div>
-  <img height="170" align="left" href="https://github.com/atmozki" src="https://github-readme-stats.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Dennis's Github Stats" />
-  <img align="center" href="https://github.com/atmozki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=vue&hide_border=true" alt="Dennis's Most Used Languages" />
+  <img height="170" align="left" href="https://github.com/atmozki" src="https://github-readme-stats-omega-lake.vercel.app/api?username=atmozki&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Dennis's Github Stats" />
+  <img align="center" href="https://github.com/atmozki" src="https://github-readme-stats-omega-lake.vercel.app/api/top-langs/?username=atmozki&layout=compact&theme=vue&hide_border=true" alt="Dennis's Most Used Languages" />
 </div>
 
 <br>
